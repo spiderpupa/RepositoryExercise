@@ -15,4 +15,4 @@
 	4. 달래
 	5. 고추
 
-	```System.out.print("Hello World!")```
+```System.out.print("Hello World!")```
